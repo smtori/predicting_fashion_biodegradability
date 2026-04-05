@@ -2,7 +2,9 @@
 Analyzing fabric composition in fast fashion to understand material sustainability patterns using machine learning.
 ## About
 This project examines garment data from a Zara product catalog to classify textiles by composition and explore sustainability trends. Using a from-scratch K-Nearest Neighbors classifier, we categorize garments into four material types based on their fabric makeup. Future work will incorporate linear regression modeling and external sustainability metrics to quantify the environmental impact of different fabric choices.
-Data Source: Zenodo — Zara Dataset · DOI: 10.5281/zenodo.4261101
+Data Source: Zenodo — Zara Dataset | DOI: 10.5281/zenodo.4261101
+### Progress
+![Progress](https://progress-bar.xyz/55)
 ## Material Categories
 Each garment is assigned one of four labels based on its natural-to-synthetic fiber ratio:
 CategoryDefinitionNatural100% natural fibers (cotton, linen, wool, camel hair)Synthetic100% synthetic fibers (polyester, nylon, acrylic, etc.)Blend — Mostly Natural≥ 50% natural fibersBlend — Mostly Synthetic< 50% natural fibers
