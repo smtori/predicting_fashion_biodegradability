@@ -1,0 +1,458 @@
+item_code,item_name,price,material,composition,material_category
+100000,DRESS PRINTED,€15.99,Viscose (Rayon),100,Synthetic
+100001,DRESS CONTRAST LACE,€15.99,Lyocell (Tencel),97,Synthetic
+100001,DRESS CONTRAST LACE,€15.99,Polyester,3,Synthetic
+100002,DRESS LONG PRINTED,€15.99,Polyester,100,Synthetic
+100002,DRESS LONG PRINTED,€15.99,Polyester,100,Synthetic
+100003,DRESS MIDI PRINTED,€19.99,Viscose (Rayon),100,Synthetic
+100004,DRESS MIDI LACE,€19.99,Viscose (Rayon),100,Synthetic
+100006,DRESS MIDI BELT,€15.99,Polyester,100,Synthetic
+100007,DRESS PRINTED FROG CLOSURES,€19.99,Polyester,100,Synthetic
+100008,DRESS MINI KNIT,€12.99,Acrylic,58,Synthetic
+100008,DRESS MINI KNIT,€12.99,Polyester,30,Synthetic
+100008,DRESS MINI KNIT,€12.99,Nylon,12,Synthetic
+100009,DRESS PRINTED FLORAL,€19.99,Viscose (Rayon),100,Synthetic
+100011,DRESS MIDI Satinado,€15.99,Viscose (Rayon),100,Synthetic
+100013,DRESS KNIT Perlado,€12.99,Acrylic,59,Synthetic
+100013,DRESS KNIT Perlado,€12.99,Polyester,30,Synthetic
+100013,DRESS KNIT Perlado,€12.99,Nylon,11,Synthetic
+100014,DRESS Satinado Cintura Elástica,€15.99,Polyester,100,Synthetic
+100015,DRESS PRINTED BOW,€15.99,Viscose (Rayon),100,Synthetic
+100017,DRESS JACQUARD,€15.99,Viscose (Rayon),100,Synthetic
+100018,DRESS PRINTED Volumen,€19.99,Polyester,100,Synthetic
+100018,DRESS PRINTED Volumen,€19.99,Polyester,100,Synthetic
+100019,DRESS Fluido SHOULDER PADS,€12.99,Polyester,100,Synthetic
+100019,DRESS Fluido SHOULDER PADS,€12.99,Polyester,100,Synthetic
+100021,DRESS MINI Abertura,€12.99,Polyester,100,Synthetic
+100022,DRESS Volumen,€15.99,Cotton,100,Natural
+100024,DRESS SHOULDER PADS,€7.99,Cotton,100,Natural
+100025,DRESS Fluido,€12.99,Lyocell (Tencel),100,Synthetic
+100026,DRESS Drapeado,€7.99,Polyester,71,Synthetic
+100026,DRESS Drapeado,€7.99,Viscose (Rayon),23,Synthetic
+100026,DRESS Drapeado,€7.99,Elastane (Spandex),6,Synthetic
+100027,DRESS PRINTED Animal,€19.99,Viscose (Rayon),100,Synthetic
+100028,DRESS Lencero Frunce,€15.99,Viscose (Rayon),100,Synthetic
+100029,DRESS MINI PRINTED,€29.95,Viscose (Rayon),100,Synthetic
+100029,DRESS MINI PRINTED,€29.95,Polyester,100,Synthetic
+100030,DRESS THREAD METALLIC,€19.99,Polyester,100,Synthetic
+100030,DRESS THREAD METALLIC,€19.99,Viscose (Rayon),60,Synthetic
+100030,DRESS THREAD METALLIC,€19.99,Polyester,37,Synthetic
+100030,DRESS THREAD METALLIC,€19.99,Metallic Fiber,3,Synthetic
+100031,DRESS PRINTED Animal,€19.99,Polyester,100,Synthetic
+100031,DRESS PRINTED Animal,€19.99,Polyester,100,Synthetic
+100032,DRESS SHIRT DRESS,€15.99,Polyester,100,Synthetic
+100032,DRESS SHIRT DRESS,€15.99,Cotton,59,Natural
+100032,DRESS SHIRT DRESS,€15.99,Polyamide (Nylon),35,Synthetic
+100032,DRESS SHIRT DRESS,€15.99,Elastane (Spandex),6,Synthetic
+100033,DRESS MINI POLKA DOT,€15.99,Polyester,100,Synthetic
+100034,DRESS JACQUARD BELT,€19.99,Polyester,100,Synthetic
+100035,DRESS Lencero Frunces,€15.99,Viscose (Rayon),100,Synthetic
+100036,DRESS SHOULDER PADS JACQUARD,€7.99,Polyester,54,Synthetic
+100036,DRESS SHOULDER PADS JACQUARD,€7.99,Cotton,45,Natural
+100036,DRESS SHOULDER PADS JACQUARD,€7.99,Elastane (Spandex),1,Synthetic
+100037,DRESS Fluido,€12.99,Polyester,100,Synthetic
+100037,DRESS Fluido,€12.99,Polyester,100,Synthetic
+100038,DRESS Drapeado PRINTED,€15.99,Viscose (Rayon),100,Synthetic
+100039,DRESS LONG PRINTED Animal,€15.99,Polyester,100,Synthetic
+100039,DRESS LONG PRINTED Animal,€15.99,Polyester,100,Synthetic
+100040,DRESS PRINTED,€19.99,Viscose (Rayon),100,Synthetic
+100041,DRESS STRUCTURED,€15.99,Polyester,99,Synthetic
+100041,DRESS STRUCTURED,€15.99,Elastane (Spandex),1,Synthetic
+100042,DRESS Botones,€15.99,Lyocell (Tencel),100,Synthetic
+100043,DRESS MINI Plumeti,€15.99,Polyester,100,Synthetic
+100044,DRESS MIDI PRINTED,€19.99,Viscose (Rayon),100,Synthetic
+100045,DRESS Fluido Drapeado,€12.99,Polyester,100,Synthetic
+100045,DRESS Fluido Drapeado,€12.99,Polyester,100,Synthetic
+100046,DRESS MINI PRINTED,€15.99,Viscose (Rayon),100,Synthetic
+100047,DRESS SHOULDER PADS JACQUARD,€7.99,Polyester,54,Synthetic
+100047,DRESS SHOULDER PADS JACQUARD,€7.99,Cotton,45,Natural
+100047,DRESS SHOULDER PADS JACQUARD,€7.99,Elastane (Spandex),1,Synthetic
+100048,DRESS HALTER,€9.99,Cotton,100,Natural
+100050,DRESS SHOULDER PADS,€12.99,Polyester,100,Synthetic
+100051,DRESS Ajustado,€19.95,Cotton,53,Natural
+100051,DRESS Ajustado,€19.95,Polyester,44,Synthetic
+100051,DRESS Ajustado,€19.95,Elastane (Spandex),3,Synthetic
+100052,DRESS PRINTED,€15.99,Polyester,100,Synthetic
+100053,DRESS Rib,€7.99,Cotton,96,Natural
+100053,DRESS Rib,€7.99,Elastane (Spandex),4,Synthetic
+100054,DRESS SHIRT DRESS PRINTED,€15.99,Viscose (Rayon),100,Synthetic
+100055,DRESS VELVET,€15.99,Polyester,92,Synthetic
+100055,DRESS VELVET,€15.99,Elastane (Spandex),8,Synthetic
+100056,DRESS SHOULDER PADS,€7.99,Cotton,100,Natural
+100057,DRESS Rib,€7.99,Cotton,96,Natural
+100057,DRESS Rib,€7.99,Elastane (Spandex),4,Synthetic
+200000,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200001,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200002,BLOUSE THREAD METALLIC,€39.95,Viscose (Rayon),62,Synthetic
+200002,BLOUSE THREAD METALLIC,€39.95,Metallic Fiber,37,Synthetic
+200002,BLOUSE THREAD METALLIC,€39.95,Elastane (Spandex),1,Synthetic
+200003,BLOUSE SATIN FROG CLOSURES,€29.95,Viscose (Rayon),100,Synthetic
+200004,BLOUSE PRINTED CROPPED,€19.95,Polyester,100,Synthetic
+200005,BLOUSE PRINTED CROPPED,€19.95,Polyester,100,Synthetic
+200006,BLOUSE PRINTED VELVET,€29.95,Polyester,100,Synthetic
+200007,BLOUSE SATIN PRINTED,€12.99,Polyester,100,Synthetic
+200008,BLOUSE LINEN POCKETS,€12.99,Linen,100,Natural
+200009,BLOUSE LINEN POCKETS,€12.99,Linen,100,Natural
+200010,BLOUSE LINEN POCKETS,€12.99,Linen,100,Natural
+200011,BLOUSE SATIN POCKETS,€15.99,Viscose (Rayon),100,Synthetic
+200012,BLOUSE SATIN POCKETS,€15.99,Viscose (Rayon),100,Synthetic
+200013,BLOUSE SATIN POCKETS,€15.99,Viscose (Rayon),100,Synthetic
+200014,BLOUSE SATIN PRINTED,€12.99,Polyester,100,Synthetic
+200015,BLOUSE CROPPED KNOT,€12.99,Viscose (Rayon),100,Synthetic
+200016,BLOUSE CROPPED KNOT,€12.99,Viscose (Rayon),100,Synthetic
+200017,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200018,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200019,BLOUSE JACQUARD,€29.95,Viscose (Rayon),52,Synthetic
+200019,BLOUSE JACQUARD,€29.95,Polyester,42,Synthetic
+200019,BLOUSE JACQUARD,€29.95,Elastane (Spandex),6,Synthetic
+200020,BLOUSE FLOWY RUFFLE,€25.95,Polyester,100,Synthetic
+200021,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200022,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200023,BLOUSE PRINTED BELT,€39.95,Polyester,100,Synthetic
+200024,BLOUSE CROPPED PRINTED,€29.95,Polyester,100,Synthetic
+200024,BLOUSE CROPPED PRINTED,€29.95,Polyester,100,Synthetic
+200026,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200027,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200028,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200029,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200030,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200031,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200032,BLOUSE LONG PRINTED Animal,€12.99,Polyester,100,Synthetic
+200033,BLOUSE FLOWY POCKETS,€29.95,Lyocell (Tencel),97,Synthetic
+200033,BLOUSE FLOWY POCKETS,€29.95,Polyester,3,Synthetic
+200034,BLOUSE LONG Botón Dorado,€25.95,Lyocell (Tencel),79,Synthetic
+200034,BLOUSE LONG Botón Dorado,€25.95,Polyamide (Nylon),18,Synthetic
+200034,BLOUSE LONG Botón Dorado,€25.95,Elastane (Spandex),3,Synthetic
+200035,BLOUSE SATIN KNOT,€12.99,Viscose (Rayon),100,Synthetic
+200037,BLOUSE KNOT,€29.95,Polyester,100,Synthetic
+200039,BLOUSE POLKA DOT,€25.95,Lyocell (Tencel),74,Synthetic
+200039,BLOUSE POLKA DOT,€25.95,Nylon,26,Synthetic
+200040,Cuerpo Manga Drapeada,€29.95,Polyester,100,Synthetic
+200041,BLOUSE CROPPED KNOT,€12.99,Viscose (Rayon),100,Synthetic
+200042,BLOUSE PRINTED Lazo,€25.95,Polyester,97,Synthetic
+200042,BLOUSE PRINTED Lazo,€25.95,Elastane (Spandex),3,Synthetic
+200043,SHIRT SATIN,€22.95,Polyester,100,Synthetic
+200044,BLOUSE LONG PRINTED Animal,€12.99,Polyester,100,Synthetic
+200045,BLOUSE JACQUARD Volantes,€29.95,Viscose (Rayon),55,Synthetic
+200045,BLOUSE JACQUARD Volantes,€29.95,Polyester,40,Synthetic
+200045,BLOUSE JACQUARD Volantes,€29.95,Elastane (Spandex),5,Synthetic
+200046,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200047,BLOUSE FAUX METALLIC,€29.95,Polyester,53,Synthetic
+200047,BLOUSE FAUX METALLIC,€29.95,Metallic Fiber,47,Synthetic
+200048,BLOUSE KNOT,€29.95,Polyester,100,Synthetic
+200049,BLOUSE STRUCTURED,€29.95,Viscose (Rayon),77,Synthetic
+200049,BLOUSE STRUCTURED,€29.95,Wool,19,Natural
+200049,BLOUSE STRUCTURED,€29.95,Polyamide (Nylon),4,Synthetic
+200050,BLOUSE PLEATED Lazo,€25.95,Polyester,100,Synthetic
+200051,BLOUSE PRINTED CROPPED,€19.95,Polyester,100,Synthetic
+200052,BLOUSE FLOWY POCKETS,€29.95,Lyocell (Tencel),97,Synthetic
+200052,BLOUSE FLOWY POCKETS,€29.95,Polyester,3,Synthetic
+200053,SHIRT POPLIN,€19.95,Cotton,100,Natural
+200055,BLOUSE SATIN SHOULDER PADS,€29.95,Viscose (Rayon),100,Synthetic
+200056,Cuerpo Satinado Cruzado,€25.95,Polyester,100,Synthetic
+200057,BLOUSE JACQUARD,€29.95,Viscose (Rayon),100,Synthetic
+200058,BLOUSE PRINTED CROPPED,€19.95,Polyester,100,Synthetic
+200059,BLOUSE CROPPED PRINTED,€25.95,Polyester,100,Synthetic
+300000,SKIRT MINI Raya Diplmatica,€19.95,Polyester,63,Synthetic
+300000,SKIRT MINI Raya Diplmatica,€19.95,Viscose (Rayon),33,Synthetic
+300000,SKIRT MINI Raya Diplmatica,€19.95,Elastane (Spandex),4,Synthetic
+300001,SKIRT MINI Raya Diplmatica,€19.95,Polyester,63,Synthetic
+300001,SKIRT MINI Raya Diplmatica,€19.95,Viscose (Rayon),33,Synthetic
+300001,SKIRT MINI Raya Diplmatica,€19.95,Elastane (Spandex),4,Synthetic
+300002,SKIRT MINI Raya Diplmatica,€19.95,Polyester,63,Synthetic
+300002,SKIRT MINI Raya Diplmatica,€19.95,Viscose (Rayon),33,Synthetic
+300002,SKIRT MINI Raya Diplmatica,€19.95,Elastane (Spandex),4,Synthetic
+300003,SKIRT TROUSERS MINI,€22.95,Polyester,90,Synthetic
+300003,SKIRT TROUSERS MINI,€22.95,Elastane (Spandex),10,Synthetic
+300004,SKIRT MINI RUFFLE,€29.95,Polyester,100,Synthetic
+300004,SKIRT MINI RUFFLE,€29.95,Polyester,100,Synthetic
+300009,SHORTS KNIT Tacto Suave,€17.95,Polyester,33,Synthetic
+300009,SHORTS KNIT Tacto Suave,€17.95,Polyamide (Nylon),22,Synthetic
+300009,SHORTS KNIT Tacto Suave,€17.95,Acrylic,21,Synthetic
+300009,SHORTS KNIT Tacto Suave,€17.95,Wool,10,Natural
+300009,SHORTS KNIT Tacto Suave,€17.95,Camel Hair,10,Natural
+300009,SHORTS KNIT Tacto Suave,€17.95,Elastane (Spandex),4,Synthetic
+300010,SHORTS Felpa,€15.95,Cotton,100,Natural
+300012,BERMUDA Botones,€29.95,Polyester,100,Synthetic
+300012,BERMUDA Botones,€29.95,Polyester,64,Synthetic
+300012,BERMUDA Botones,€29.95,Viscose (Rayon),34,Synthetic
+300012,BERMUDA Botones,€29.95,Elastane (Spandex),2,Synthetic
+300013,BERMUDA STRUCTURED,€29.95,Polyester,100,Synthetic
+300013,BERMUDA STRUCTURED,€29.95,Cotton,100,Natural
+300014,BERMUDA Botones,€25.95,Polyester,100,Synthetic
+300014,BERMUDA Botones,€25.95,Polyester,64,Synthetic
+300014,BERMUDA Botones,€25.95,Viscose (Rayon),31,Synthetic
+300014,BERMUDA Botones,€25.95,Elastane (Spandex),5,Synthetic
+300015,SKIRT Felpa,€12.95,Cotton,70,Natural
+300015,SKIRT Felpa,€12.95,Polyester,30,Synthetic
+300016,SKIRT Felpa,€12.95,Cotton,70,Natural
+300016,SKIRT Felpa,€12.95,Polyester,30,Synthetic
+300017,SKIRT Felpa,€12.95,Cotton,70,Natural
+300017,SKIRT Felpa,€12.95,Polyester,30,Synthetic
+300021,SHORTS PLAID,€9.99,Polyester,66,Synthetic
+300021,SHORTS PLAID,€9.99,Viscose (Rayon),32,Synthetic
+300021,SHORTS PLAID,€9.99,Elastane (Spandex),2,Synthetic
+300022,BERMUDA STRAIGHT,€9.99,Polyester,77,Synthetic
+300022,BERMUDA STRAIGHT,€9.99,Viscose (Rayon),18,Synthetic
+300022,BERMUDA STRAIGHT,€9.99,Elastane (Spandex),5,Synthetic
+300023,SKIRT PRINTED KNOT,€15.99,Viscose (Rayon),100,Synthetic
+300024,SKIRT PLEATED PRINTED,€15.99,Polyester,100,Synthetic
+300025,SKIRT PLEATED PRINTED,€15.99,Polyester,100,Synthetic
+300026,BERMUDA STRUCTURED,€29.95,Polyester,100,Synthetic
+300026,BERMUDA STRUCTURED,€29.95,Cotton,100,Natural
+300027,BERMUDA STRUCTURED,€29.95,Polyester,100,Synthetic
+300027,BERMUDA STRUCTURED,€29.95,Cotton,100,Natural
+300028,BERMUDA PLAID,€22.95,Polyester,63,Synthetic
+300028,BERMUDA PLAID,€22.95,Viscose (Rayon),34,Synthetic
+300028,BERMUDA PLAID,€22.95,Elastane (Spandex),3,Synthetic
+300029,SKIRT MINI VELVET,€29.95,Cotton,100,Natural
+300030,SKIRT MINI JACQUARD,€25.95,Polyester,78,Synthetic
+300030,SKIRT MINI JACQUARD,€25.95,Polyamide (Nylon),22,Synthetic
+300032,SHORTS Satinado,€22.95,Polyester,100,Synthetic
+300032,SHORTS Satinado,€22.95,Polyester,98,Synthetic
+300032,SHORTS Satinado,€22.95,Elastane (Spandex),2,Synthetic
+300034,SHORTS Satinado,€22.95,Polyester,100,Synthetic
+300034,SHORTS Satinado,€22.95,Polyester,98,Synthetic
+300034,SHORTS Satinado,€22.95,Elastane (Spandex),2,Synthetic
+300035,SKIRT TROUSERS,€19.95,Polyester,77,Synthetic
+300035,SKIRT TROUSERS,€19.95,Viscose (Rayon),18,Synthetic
+300035,SKIRT TROUSERS,€19.95,Elastane (Spandex),5,Synthetic
+300036,SKIRT BERMUDA PRINTED,€7.99,Viscose (Rayon),100,Synthetic
+300037,SKIRT BERMUDA PRINTED,€7.99,Viscose (Rayon),100,Synthetic
+300038,SKIRT BERMUDA PRINTED,€7.99,Viscose (Rayon),100,Synthetic
+300039,SKIRT BERMUDA PRINTED,€7.99,Viscose (Rayon),100,Synthetic
+300040,SKIRT BERMUDA PRINTED,€7.99,Viscose (Rayon),100,Synthetic
+300045,SKIRT MINI Abertura,€25.95,Polyester,100,Synthetic
+300046,SKIRT MINI Drapeada,€29.95,Viscose (Rayon),100,Synthetic
+300046,SKIRT MINI Drapeada,€29.95,Polyester,50,Synthetic
+300046,SKIRT MINI Drapeada,€29.95,Viscose (Rayon),30,Synthetic
+300046,SKIRT MINI Drapeada,€29.95,Wool,19,Natural
+300046,SKIRT MINI Drapeada,€29.95,Elastane (Spandex),1,Synthetic
+300047,SKIRT MINI RUFFLE,€29.95,Polyester,100,Synthetic
+300047,SKIRT MINI RUFFLE,€29.95,Polyester,100,Synthetic
+300048,SKIRT VELVET,€39.95,Viscose (Rayon),74,Synthetic
+300048,SKIRT VELVET,€39.95,Polyamide (Nylon),26,Synthetic
+300049,SKIRT MINI VELVET FRINGE,€29.95,Polyester,100,Synthetic
+300050,SKIRT MIDI PRINTED,€39.95,Cupro,100,Semi-Synthetic
+300051,SKIRT Tacto Suave,€15.95,Polyester,68,Synthetic
+300051,SKIRT Tacto Suave,€15.95,Cotton,32,Natural
+300052,SKIRT MINI PRINTED,€25.95,Polyester,100,Synthetic
+300052,SKIRT MINI PRINTED,€25.95,Polyester,100,Synthetic
+300053,SKIRT TUBE Costuras,€39.95,Polyester,100,Synthetic
+300053,SKIRT TUBE Costuras,€39.95,Polyester,68,Synthetic
+300053,SKIRT TUBE Costuras,€39.95,Viscose (Rayon),28,Synthetic
+300053,SKIRT TUBE Costuras,€39.95,Elastane (Spandex),4,Synthetic
+300054,SKIRT PLEATED PLAID,€39.95,Polyester,76,Synthetic
+300054,SKIRT PLEATED PLAID,€39.95,Viscose (Rayon),22,Synthetic
+300054,SKIRT PLEATED PLAID,€39.95,Elastane (Spandex),2,Synthetic
+300057,SKIRT MINI POCKETS,€22.95,Cotton,100,Natural
+300059,SKIRT MINI Combinada,€29.95,Acrylic,33,Synthetic
+300059,SKIRT MINI Combinada,€29.95,Cotton,30,Natural
+300059,SKIRT MINI Combinada,€29.95,Polyester,25,Synthetic
+300059,SKIRT MINI Combinada,€29.95,Viscose (Rayon),12,Synthetic
+400000,Cuerpo Perkins Sarga,€15.95,Polyester,96,Synthetic
+400000,Cuerpo Perkins Sarga,€15.95,Elastane (Spandex),4,Synthetic
+400001,Cuerpo Perkins Sarga,€15.95,Polyester,96,Synthetic
+400001,Cuerpo Perkins Sarga,€15.95,Elastane (Spandex),4,Synthetic
+400002,Cuerpo Perkins Sarga,€15.95,Polyester,96,Synthetic
+400002,Cuerpo Perkins Sarga,€15.95,Elastane (Spandex),4,Synthetic
+400005,T-SHIRT Capucha,€17.95,Cotton,100,Natural
+400005,T-SHIRT Capucha,€17.95,Cotton,49,Natural
+400005,T-SHIRT Capucha,€17.95,Modal,48,Semi-Synthetic
+400005,T-SHIRT Capucha,€17.95,Elastane (Spandex),3,Synthetic
+400006,TOP Rib Cuello HIGH,€5.95,Cotton,95,Natural
+400006,TOP Rib Cuello HIGH,€5.95,Elastane (Spandex),5,Synthetic
+400007,TOP Rib Cuello HIGH,€5.95,Cotton,95,Natural
+400007,TOP Rib Cuello HIGH,€5.95,Elastane (Spandex),5,Synthetic
+400008,TOP Rib Cuello HIGH,€5.95,Cotton,95,Natural
+400008,TOP Rib Cuello HIGH,€5.95,Elastane (Spandex),5,Synthetic
+400009,JACKET Canalé Botones,€12.95,Cotton,88,Natural
+400009,JACKET Canalé Botones,€12.95,Elastane (Spandex),7,Synthetic
+400009,JACKET Canalé Botones,€12.95,Viscose (Rayon),5,Synthetic
+400010,JACKET Canalé Botones,€12.95,Cotton,88,Natural
+400010,JACKET Canalé Botones,€12.95,Elastane (Spandex),7,Synthetic
+400010,JACKET Canalé Botones,€12.95,Viscose (Rayon),5,Synthetic
+400011,JACKET Canalé Botones,€12.95,Cotton,88,Natural
+400011,JACKET Canalé Botones,€12.95,Elastane (Spandex),7,Synthetic
+400011,JACKET Canalé Botones,€12.95,Viscose (Rayon),5,Synthetic
+400012,T-SHIRT Premium Quality,€15.95,Cotton,100,Natural
+400013,T-SHIRT Premium Quality,€15.95,Cotton,100,Natural
+400014,T-SHIRT Premium Quality,€15.95,Cotton,100,Natural
+400015,T-SHIRT Premium Quality,€15.95,Cotton,100,Natural
+400016,T-SHIRT Premium Quality,€15.95,Cotton,100,Natural
+400017,TOP Capucha Limitless Contour Collection,€15.95,Nylon,95,Synthetic
+400017,TOP Capucha Limitless Contour Collection,€15.95,Elastane (Spandex),5,Synthetic
+400018,TOP Limitless Contour Collection,€12.95,Nylon,95,Synthetic
+400018,TOP Limitless Contour Collection,€12.95,Elastane (Spandex),5,Synthetic
+400019,T-SHIRT Rib,€7.95,Cotton,95,Natural
+400019,T-SHIRT Rib,€7.95,Elastane (Spandex),5,Synthetic
+400020,T-SHIRT Rib,€7.95,Cotton,95,Natural
+400020,T-SHIRT Rib,€7.95,Elastane (Spandex),5,Synthetic
+400021,T-SHIRT Rib,€7.95,Cotton,95,Natural
+400021,T-SHIRT Rib,€7.95,Elastane (Spandex),5,Synthetic
+400022,T-SHIRT Rib,€7.95,Cotton,95,Natural
+400022,T-SHIRT Rib,€7.95,Elastane (Spandex),5,Synthetic
+400023,T-SHIRT Rib,€7.95,Cotton,95,Natural
+400023,T-SHIRT Rib,€7.95,Elastane (Spandex),5,Synthetic
+400024,BODYSUIT Canalé,€15.95,Viscose (Rayon),49,Synthetic
+400024,BODYSUIT Canalé,€15.95,Polyester,28,Synthetic
+400024,BODYSUIT Canalé,€15.95,Polyamide (Nylon),23,Synthetic
+400025,BODYSUIT Canalé,€12.95,Viscose (Rayon),97,Synthetic
+400025,BODYSUIT Canalé,€12.95,Elastane (Spandex),3,Synthetic
+400026,BODYSUIT SHOULDER PADS,€17.95,Cotton,92,Natural
+400026,BODYSUIT SHOULDER PADS,€17.95,Elastane (Spandex),8,Synthetic
+400027,BODYSUIT HALTER,€15.95,Cotton,92,Natural
+400027,BODYSUIT HALTER,€15.95,Elastane (Spandex),8,Synthetic
+400028,BODYSUIT Escote Corazón,€17.95,Cotton,42,Natural
+400028,BODYSUIT Escote Corazón,€17.95,Modal,39,Semi-Synthetic
+400028,BODYSUIT Escote Corazón,€17.95,Polyester,16,Synthetic
+400028,BODYSUIT Escote Corazón,€17.95,Elastane (Spandex),3,Synthetic
+400029,BODYSUIT Canalé Botones,€17.95,Viscose (Rayon),55,Synthetic
+400029,BODYSUIT Canalé Botones,€17.95,Polyamide (Nylon),25,Synthetic
+400029,BODYSUIT Canalé Botones,€17.95,Polyester,20,Synthetic
+400030,BODYSUIT LACE,€15.95,Polyamide (Nylon),92,Synthetic
+400030,BODYSUIT LACE,€15.95,Elastane (Spandex),8,Synthetic
+400031,BODYSUIT LACE,€15.95,Polyamide (Nylon),92,Synthetic
+400031,BODYSUIT LACE,€15.95,Elastane (Spandex),8,Synthetic
+400032,BODYSUIT LACE,€15.95,Polyamide (Nylon),92,Synthetic
+400032,BODYSUIT LACE,€15.95,Elastane (Spandex),8,Synthetic
+400033,BODYSUIT Canalé Botones,€17.95,Viscose (Rayon),55,Synthetic
+400033,BODYSUIT Canalé Botones,€17.95,Polyamide (Nylon),25,Synthetic
+400033,BODYSUIT Canalé Botones,€17.95,Polyester,20,Synthetic
+400034,BODYSUIT Canalé Botones,€17.95,Viscose (Rayon),55,Synthetic
+400034,BODYSUIT Canalé Botones,€17.95,Polyamide (Nylon),25,Synthetic
+400034,BODYSUIT Canalé Botones,€17.95,Polyester,20,Synthetic
+400035,T-SHIRT Snaps,€12.95,Cotton,96,Natural
+400035,T-SHIRT Snaps,€12.95,Elastane (Spandex),4,Synthetic
+400036,T-SHIRT Snaps,€12.95,Cotton,96,Natural
+400036,T-SHIRT Snaps,€12.95,Elastane (Spandex),4,Synthetic
+400037,T-SHIRT Snaps,€12.95,Cotton,96,Natural
+400037,T-SHIRT Snaps,€12.95,Elastane (Spandex),4,Synthetic
+400038,T-SHIRT Snaps,€12.95,Cotton,96,Natural
+400038,T-SHIRT Snaps,€12.95,Elastane (Spandex),4,Synthetic
+400039,T-SHIRT Snaps,€12.95,Cotton,96,Natural
+400039,T-SHIRT Snaps,€12.95,Elastane (Spandex),4,Synthetic
+400040,T-SHIRT Rib Volantes,€9.95,Cotton,95,Natural
+400040,T-SHIRT Rib Volantes,€9.95,Elastane (Spandex),5,Synthetic
+400041,T-SHIRT Rib Volantes,€9.95,Cotton,95,Natural
+400041,T-SHIRT Rib Volantes,€9.95,Elastane (Spandex),5,Synthetic
+400042,T-SHIRT Rib Volantes,€9.95,Cotton,95,Natural
+400042,T-SHIRT Rib Volantes,€9.95,Elastane (Spandex),5,Synthetic
+400043,JACKET CROPPED,€5.99,Viscose (Rayon),49,Synthetic
+400043,JACKET CROPPED,€5.99,Polyester,29,Synthetic
+400043,JACKET CROPPED,€5.99,Polyamide (Nylon),22,Synthetic
+400044,JACKET CROPPED,€5.99,Viscose (Rayon),49,Synthetic
+400044,JACKET CROPPED,€5.99,Polyester,29,Synthetic
+400044,JACKET CROPPED,€5.99,Polyamide (Nylon),22,Synthetic
+400045,Cuerpo Canalé Tacto Suave,€12.95,Viscose (Rayon),74,Synthetic
+400045,Cuerpo Canalé Tacto Suave,€12.95,Polyester,22,Synthetic
+400045,Cuerpo Canalé Tacto Suave,€12.95,Elastane (Spandex),4,Synthetic
+400046,Cuerpo Canalé Tacto Suave,€12.95,Viscose (Rayon),74,Synthetic
+400046,Cuerpo Canalé Tacto Suave,€12.95,Polyester,22,Synthetic
+400046,Cuerpo Canalé Tacto Suave,€12.95,Elastane (Spandex),4,Synthetic
+400047,Cuerpo Canalé Tacto Suave,€12.95,Viscose (Rayon),74,Synthetic
+400047,Cuerpo Canalé Tacto Suave,€12.95,Polyester,22,Synthetic
+400047,Cuerpo Canalé Tacto Suave,€12.95,Elastane (Spandex),4,Synthetic
+400048,T-SHIRT Unisex Colaboración Coco Capitan,€19.95,Cotton,100,Natural
+400049,T-SHIRT Unisex Colaboración Coco Capitán,€15.95,Cotton,100,Natural
+400050,T-SHIRT Unisex Colaboración Coco Capitán,€15.95,Cotton,100,Natural
+400051,T-SHIRT Unisex Colaboración Coco Capitan,€19.95,Cotton,100,Natural
+400052,T-SHIRT Unisex Colaboración Coco Capitán,€15.95,Cotton,100,Natural
+400053,Cuerpo CROPPED,€15.95,Viscose (Rayon),49,Synthetic
+400053,Cuerpo CROPPED,€15.95,Polyester,46,Synthetic
+400053,Cuerpo CROPPED,€15.95,Elastane (Spandex),5,Synthetic
+400054,Cuerpo CROPPED,€15.95,Viscose (Rayon),49,Synthetic
+400054,Cuerpo CROPPED,€15.95,Polyester,46,Synthetic
+400054,Cuerpo CROPPED,€15.95,Elastane (Spandex),5,Synthetic
+400055,Cuerpo CROPPED,€15.95,Viscose (Rayon),49,Synthetic
+400055,Cuerpo CROPPED,€15.95,Polyester,46,Synthetic
+400055,Cuerpo CROPPED,€15.95,Elastane (Spandex),5,Synthetic
+400056,T-SHIRT STRIPED,€17.95,Cotton,100,Natural
+400057,BODYSUIT Canalé,€9.95,Cotton,95,Natural
+400057,BODYSUIT Canalé,€9.95,Elastane (Spandex),5,Synthetic
+400058,BODYSUIT Canalé,€9.95,Cotton,95,Natural
+400058,BODYSUIT Canalé,€9.95,Elastane (Spandex),5,Synthetic
+400059,BODYSUIT Canalé,€9.95,Cotton,95,Natural
+400059,BODYSUIT Canalé,€9.95,Elastane (Spandex),5,Synthetic
+500000,TROUSERS RISE HIGH BELT,€15.99,Polyester,76,Synthetic
+500000,TROUSERS RISE HIGH BELT,€15.99,Viscose (Rayon),17,Synthetic
+500000,TROUSERS RISE HIGH BELT,€15.99,Elastane (Spandex),7,Synthetic
+500001,TROUSERS CULOTTES,€15.99,Polyester,100,Synthetic
+500003,TROUSERS WIDE-LEG Full Length,€12.99,Polyester,64,Synthetic
+500003,TROUSERS WIDE-LEG Full Length,€12.99,Viscose (Rayon),31,Synthetic
+500003,TROUSERS WIDE-LEG Full Length,€12.99,Elastane (Spandex),5,Synthetic
+500004,JOGGING KNIT,€12.99,Viscose (Rayon),46,Synthetic
+500004,JOGGING KNIT,€12.99,Nylon,28,Synthetic
+500004,JOGGING KNIT,€12.99,Polyester,26,Synthetic
+500005,JOGGING KNIT,€12.99,Viscose (Rayon),46,Synthetic
+500005,JOGGING KNIT,€12.99,Nylon,28,Synthetic
+500005,JOGGING KNIT,€12.99,Polyester,26,Synthetic
+500006,TROUSERS WIDE-LEG Full Length,€12.99,Polyester,64,Synthetic
+500006,TROUSERS WIDE-LEG Full Length,€12.99,Viscose (Rayon),31,Synthetic
+500006,TROUSERS WIDE-LEG Full Length,€12.99,Elastane (Spandex),5,Synthetic
+500007,TROUSERS FAUX LEATHER,€15.99,Polyester,100,Synthetic
+500010,JOGGING KNIT,€12.99,Viscose (Rayon),46,Synthetic
+500010,JOGGING KNIT,€12.99,Nylon,28,Synthetic
+500010,JOGGING KNIT,€12.99,Polyester,26,Synthetic
+500011,TROUSERS JOGGING,€15.99,Cotton,100,Natural
+500011,TROUSERS JOGGING,€15.99,Lyocell (Tencel),55,Synthetic
+500011,TROUSERS JOGGING,€15.99,Cotton,42,Natural
+500011,TROUSERS JOGGING,€15.99,Elastane (Spandex),3,Synthetic
+500012,TROUSERS CULOTTES BELT,€15.99,Polyester,74,Synthetic
+500012,TROUSERS CULOTTES BELT,€15.99,Viscose (Rayon),20,Synthetic
+500012,TROUSERS CULOTTES BELT,€15.99,Elastane (Spandex),6,Synthetic
+500013,LEGGINGS SUPER STRETCH PIPING,€12.99,Nylon,77,Synthetic
+500013,LEGGINGS SUPER STRETCH PIPING,€12.99,Elastane (Spandex),23,Synthetic
+500013,LEGGINGS SUPER STRETCH PIPING,€12.99,Nylon,77,Synthetic
+500013,LEGGINGS SUPER STRETCH PIPING,€12.99,Elastane (Spandex),23,Synthetic
+500014,TROUSERS JOGGING,€15.99,Lyocell (Tencel),55,Synthetic
+500014,TROUSERS JOGGING,€15.99,Cotton,42,Natural
+500014,TROUSERS JOGGING,€15.99,Elastane (Spandex),3,Synthetic
+500015,TROUSERS SLOUCHY JOGGER,€15.99,Lyocell (Tencel),65,Synthetic
+500015,TROUSERS SLOUCHY JOGGER,€15.99,Cotton,24,Natural
+500015,TROUSERS SLOUCHY JOGGER,€15.99,Linen,11,Natural
+500016,TROUSERS RISE HIGH,€15.99,Polyester,100,Synthetic
+500021,TROUSERS DOUBLE FABRIC CHINO FIT,€15.99,Cotton,51,Natural
+500021,TROUSERS DOUBLE FABRIC CHINO FIT,€15.99,Polyester,46,Synthetic
+500021,TROUSERS DOUBLE FABRIC CHINO FIT,€15.99,Elastane (Spandex),3,Synthetic
+500022,TROUSERS JOGGING,€15.99,Cotton,100,Natural
+500022,TROUSERS JOGGING,€15.99,Lyocell (Tencel),100,Synthetic
+500023,TROUSERS JOGGING,€12.99,Polyester,100,Synthetic
+500024,TROUSERS CULOTTES BELT,€15.99,Polyester,62,Synthetic
+500024,TROUSERS CULOTTES BELT,€15.99,Viscose (Rayon),36,Synthetic
+500024,TROUSERS CULOTTES BELT,€15.99,Elastane (Spandex),2,Synthetic
+500025,TROUSERS SUIT STRUCTURED,€9.99,Polyester,67,Synthetic
+500025,TROUSERS SUIT STRUCTURED,€9.99,Viscose (Rayon),29,Synthetic
+500025,TROUSERS SUIT STRUCTURED,€9.99,Elastane (Spandex),4,Synthetic
+500026,TROUSERS SUIT PLAID,€9.99,Polyester,67,Synthetic
+500026,TROUSERS SUIT PLAID,€9.99,Viscose (Rayon),31,Synthetic
+500026,TROUSERS SUIT PLAID,€9.99,Elastane (Spandex),2,Synthetic
+500027,TROUSERS BELT RAFFIA,€15.99,Polyester,100,Synthetic
+500028,TROUSERS ZW JOGGING,€15.99,Cotton,100,Natural
+500028,TROUSERS ZW JOGGING,€15.99,Lyocell (Tencel),55,Synthetic
+500028,TROUSERS ZW JOGGING,€15.99,Cotton,42,Natural
+500028,TROUSERS ZW JOGGING,€15.99,Elastane (Spandex),3,Synthetic
+500029,TROUSERS RISE HIGH BELT,€15.99,Polyester,76,Synthetic
+500029,TROUSERS RISE HIGH BELT,€15.99,Viscose (Rayon),17,Synthetic
+500029,TROUSERS RISE HIGH BELT,€15.99,Elastane (Spandex),7,Synthetic
+500030,TROUSERS RISE HIGH BELT,€15.99,Polyester,76,Synthetic
+500030,TROUSERS RISE HIGH BELT,€15.99,Viscose (Rayon),17,Synthetic
+500030,TROUSERS RISE HIGH BELT,€15.99,Elastane (Spandex),7,Synthetic
+500031,TROUSERS RISE HIGH BELT,€15.99,Polyester,76,Synthetic
+500031,TROUSERS RISE HIGH BELT,€15.99,Viscose (Rayon),17,Synthetic
+500031,TROUSERS RISE HIGH BELT,€15.99,Elastane (Spandex),7,Synthetic
+500032,TROUSERS SKINNY PLAID,€12.99,Viscose (Rayon),75,Synthetic
+500032,TROUSERS SKINNY PLAID,€12.99,Polyester,22,Synthetic
+500032,TROUSERS SKINNY PLAID,€12.99,Elastane (Spandex),3,Synthetic
+500033,TROUSERS SKINNY,€12.99,Cotton,35,Natural
+500033,TROUSERS SKINNY,€12.99,Polyester,31,Synthetic
+500033,TROUSERS SKINNY,€12.99,Viscose (Rayon),17,Synthetic
+500033,TROUSERS SKINNY,€12.99,Linen,15,Natural
+500033,TROUSERS SKINNY,€12.99,Elastane (Spandex),2,Synthetic
+500034,TROUSERS BELT RAFFIA,€15.99,Polyester,100,Synthetic
+500035,TROUSERS PRINTED,€15.99,Viscose (Rayon),100,Synthetic
+500036,TROUSERS GARDEN,€15.99,Cotton,97,Natural
+500036,TROUSERS GARDEN,€15.99,Elastane (Spandex),3,Synthetic
+500037,TROUSERS WIDE-LEG PLEATED,€12.99,Polyester,67,Synthetic
+500037,TROUSERS WIDE-LEG PLEATED,€12.99,Viscose (Rayon),29,Synthetic
+500037,TROUSERS WIDE-LEG PLEATED,€12.99,Elastane (Spandex),4,Synthetic
