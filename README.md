@@ -7,10 +7,12 @@ Data Source: Zenodo — Zara Dataset · DOI: 10.5281/zenodo.4261101
 Each garment is assigned one of four labels based on its natural-to-synthetic fiber ratio:
 CategoryDefinitionNatural100% natural fibers (cotton, linen, wool, camel hair)Synthetic100% synthetic fibers (polyester, nylon, acrylic, etc.)Blend — Mostly Natural≥ 50% natural fibersBlend — Mostly Synthetic< 50% natural fibers
 ## Project Structure
-├── Raw_Data_Cleaning.py            # Data cleaning, merging, and feature engineering
-├── Knn_fabric_clustering        # KNN classifier implementation and evaluation
-└── README.md
-Project_DS2500.py — Data Pipeline
+Raw_Data_Cleaning.py            # Data cleaning, merging, and feature engineering
+
+Knn_fabric_clustering        # KNN classifier implementation and evaluation
+
+README.md
+## Raw_Data_Cleaning.py — Data Pipeline
 Handles all preprocessing steps:
 
 Loads and merges the Zara items and composition CSVs on item_code
@@ -37,5 +39,5 @@ Visualizations — Expand charting (built on Altair) to visualize classification
 ## Tech Stack
 
 Python 3
-pandas · NumPy · scikit-learn (metrics and preprocessing only)
+pandas · NumPy · scikit-learn (metrics and preprocessing only) ·
 Altair (visualization)
