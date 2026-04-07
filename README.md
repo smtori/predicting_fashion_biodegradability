@@ -5,7 +5,7 @@ This project examines garment data from a Zara product catalog to classify texti
 Data Source: Zenodo — Zara Dataset | DOI: 10.5281/zenodo.4261101
 ##  Project Status
 
-**~55% Complete** — Active development in progress.
+**~45% Complete** — Active development in progress.
 
 ## Material Categories
 Each garment is assigned one of four labels based on its natural-to-synthetic fiber ratio:
