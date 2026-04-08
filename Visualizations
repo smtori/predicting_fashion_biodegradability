@@ -1,0 +1,46 @@
+
+# ── assuming existing Raw_Data_Cleaning.py
+#    df          (merged + categorized, with material_category column)
+#    item_stats  (item_code, natural_pct, synthetic_pct, material_category)
+#    result      (item_code, item_name, price, + one column per material)
+
+item_stats = item_stats.drop(columns=['price_num'], errors='ignore')
+ 
+item_stats = item_stats.merge(
+    result[['item_code', 'price_num']].drop_duplicates('item_code'),
+    on='item_code', how='left'
+)
+
+cat_counts = item_stats['material_category'].value_counts().reset_index()
+cat_counts.columns = ['category', 'count']
+cat_counts['pct'] = (cat_counts['count'] / cat_counts['count'].sum() * 100).round(1)
+cat_counts['label'] = cat_counts['category'] + ' ' + cat_counts['pct'].astype(str) + '%'
+ 
+cat_color_scale = alt.Scale(
+    domain=['Natural', 'Synthetic', 'Blend - Mostly Natural', 'Blend - Mostly Synthetic'],
+    range=['#1D9E75', '#D85A30', '#378ADD', '#BA7517']
+)
+ 
+donut = alt.Chart(cat_counts).mark_arc(innerRadius=70, outerRadius=110).encode(
+    theta=alt.Theta('count:Q'),
+    color=alt.Color('category:N', scale=cat_color_scale, legend=None),
+    tooltip=['category:N', 'count:Q', 'pct:Q']
+).properties(
+    title=alt.Title('Material category breakdown',
+                    subtitle='Proportion of items by fabric grouping'),
+    width=280, height=280
+)
+ 
+donut_legend = alt.Chart(cat_counts).mark_text(
+    align='left', dx=5, fontSize=12
+).encode(
+    y=alt.Y('category:N', axis=None,
+            sort=alt.SortField('count', order='descending')),
+    text=alt.Text('label:N'),
+    color=alt.Color('category:N', scale=cat_color_scale, legend=None)
+).properties(width=500, height=280)
+ 
+chart1 = alt.hconcat(donut, donut_legend).resolve_scale(color='shared')
+print(chart1)
+ 
+ 
